@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Nguyễn Ngọc Hân
 
-🎓 Final-year Information Systems student  
-🔍 Aspiring QA Automation Engineer  
-
+🎓 Final-year Information Systems student | 💻 QA Automation Enthusiast
 ## 🚀 About Me
-Final-year student interested in Quality Assurance and Automation Testing.
-Hands-on experience in web automation, API testing, and database validation.
-Currently seeking an **Fresher QA Automation Engineer** position.
+Final-year student with a strong interest in Quality Assurance and Automation Testing.  
+Hands-on experience in Web UI automation, API testing, and database validation.  
+Currently seeking a Fresher QA Automation Engineer position.
 
 ## 💼 Experience
 **QA Automation Intern** | Telecom Domain  
-- Built 4 automated test suites for Web UI, API, and TLA testing  
-- Wrote test scripts in Perl on an internal Selenium-based framework  
-- Executed tests and analyzed test results  
+- Built and maintained 4 automated test suites for Web UI, API, and TLA testing
+- Developed automated test scripts using Perl on an internal Selenium-based framework
+- Executed automated and manual tests, analyzed results, and reported defects
 
 ## 🛠️ Skills
 - **Automation**: Selenium WebDriver (Java, Perl), TestNG  
