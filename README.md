@@ -21,17 +21,10 @@ Currently seeking an **Fresher QA Automation Engineer** position.
 ---
 
 ## 🛠️ Skills
-- **Automation**: Selenium WebDriver (Java), TestNG, Maven  
+- **Automation**: Selenium WebDriver (Java, Perl), TestNG  
 - **Testing**: Manual Testing, API Testing (Postman)  
-- **Database**: SQL, Oracle, SQL Server  
+- **Database**: SQL Server, Oracle, MongoDB, MySQL
 - **Tools**: Git, GitHub, Jira (basic)
-
----
-
-## 📌 Projects
-- Web Automation Testing – Selenium + Java (POM)  
-- API Testing – Postman  
-- Database Testing – SQL validation  
 
 ---
 
