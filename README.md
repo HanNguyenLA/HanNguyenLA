@@ -3,7 +3,7 @@
 🎓 Final-year Information Systems student  
 🔍 Aspiring QA Automation Engineer  
 
-##  About Me
+## 🚀 About Me
 Final-year student interested in Quality Assurance and Automation Testing.
 Hands-on experience in web automation, API testing, and database validation.
 Currently seeking an **Fresher QA Automation Engineer** position.
