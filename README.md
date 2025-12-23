@@ -5,14 +5,14 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 Final-year student interested in Quality Assurance and Automation Testing.
 Hands-on experience in web automation, API testing, and database validation.
 Currently seeking an **Fresher QA Automation Engineer** position.
 
 ---
 
-## 💼 Experience
+##  Experience
 **QA Automation Intern** | Telecom Domain  
 - Built 4 automated test suites for Web UI, API, and TLA testing  
 - Wrote test scripts in Perl on an internal Selenium-based framework  
@@ -20,10 +20,10 @@ Currently seeking an **Fresher QA Automation Engineer** position.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 - **Automation**: Selenium WebDriver (Java, Perl), TestNG  
 - **Testing**: Manual Testing, API Testing (Postman)  
-- **Database**: SQL Server, Oracle, MongoDB, MySQL
+- **Database**: SQL Server, Oracle, MongoDB
 - **Tools**: Git, GitHub, Jira (basic)
 
 ---
