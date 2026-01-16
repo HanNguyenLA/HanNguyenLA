@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nguyễn Ngọc Hân
+# 👋 Hi, I'm Nguyen Ngoc Han
 
 🎓 Final-year Information Systems student | 💻 QA Automation Enthusiast
 ## 🚀 About Me
